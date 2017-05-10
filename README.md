@@ -1,3 +1,12 @@
+Report：
+
+[Predicting drug-target interactions :a heterogeneous information network approach](https://mailsdueducn-my.sharepoint.com/personal/201400820221_mail_sdu_edu_cn/Documents/report.pdf)
+
+
+
+
+
+
 
 Written by Bo-wen Zhao
 Questions/comments/bugs: bowenzhao1995@gmail.com
