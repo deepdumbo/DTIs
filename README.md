@@ -1,3 +1,5 @@
+[Data and code](http://pan.baidu.com/s/1bp9wLR5)   password:z5is
+
 Report：
 
 [Predicting drug-target interactions :a heterogeneous information network approach](https://mailsdueducn-my.sharepoint.com/personal/201400820221_mail_sdu_edu_cn/Documents/report.pdf)
